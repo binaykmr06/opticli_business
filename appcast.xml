@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>Flutter Upgrader Demo</title>
+        <title>Application Upgrade Alert!</title>
         <item>
-            <title>Version 2.0.0</title>
-            <description>Flutter Upgrader Demo<br/>Dummy Data</description>
+            <title>Version 2.0.1</title>
+            <description><b>New addition: </b><br/>
+            1. Integrated sales module with Sales enquiry and order management.<br/>
+            2. Expense log for users that helps to keep track of all the business expenses on the go and at one place.<br/>
+            3. Schedule and organize all meetings in a hassle-free manner.<br/>
+            4. Reviewing calendar and sending alerts with notifications to members of the team.<br/>
+            <b>Bug Fixes: </b><br/>
+            1. Few major bugs fixed related to company configs.<br/>
+            2. Pdf generation mechanism changes for better stability.</description>
             <pubDate>Fri, 13 Aug 2021 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.example.app" sparkle:version="2.0.0" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.opticli.mobile_app" sparkle:version="2.0.1" sparkle:os="android" />
         </item>
     </channel>
 </rss>
